@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>back.svg</file>
+        <file>fast-forward.svg</file>
+        <file>Icons.qrc</file>
+        <file>list.svg</file>
+        <file>magnifying-glass.svg</file>
+        <file>next.svg</file>
+        <file>pause.svg</file>
+        <file>play-button.svg</file>
+        <file>playerIcons.qrc</file>
+        <file>rewind.svg</file>
+        <file>speaker.svg</file>
+        <file>speaker-mute.svg</file>
+    </qresource>
+</RCC>
