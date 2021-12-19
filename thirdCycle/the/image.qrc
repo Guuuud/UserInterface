@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/">
+        <file>ico/backward-track.png</file>
+        <file>ico/backwards.png</file>
+        <file>ico/fast-forward-media-control-button.png</file>
+        <file>ico/fullscreen.png</file>
+        <file>ico/mute.png</file>
+        <file>ico/next.png</file>
+        <file>ico/pause.png</file>
+        <file>ico/play.png</file>
+        <file>ico/volume.png</file>
+        <file>ico/search.png</file>
+        <file>ico/toDay.png</file>
+        <file>ico/toNight.png</file>
+        <file>ico/nextPage.png</file>
+        <file>ico/prePage.png</file>
+        <file>ico/camera.png</file>
+        <file>ico/background.png</file>
+        <file>ico/video-player.png</file>
+    </qresource>
+</RCC>
