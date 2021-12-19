@@ -1,0 +1,14 @@
+debug/form.o
+debug/login.o
+debug/loginid.o
+debug/setFullScreen.o
+debug/the_button.o
+debug/the_player.o
+debug/tomeo.o
+debug/qrc_image.o
+debug/moc_form.o
+debug/moc_login.o
+debug/moc_loginid.o
+debug/moc_setFullScreen.o
+debug/moc_the_button.o
+debug/moc_the_player.o
