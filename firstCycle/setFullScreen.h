@@ -1,0 +1,5 @@
+#ifndef SETFULLSCREEN_H
+#define SETFULLSCREEN_H
+
+
+#endif // SETFULLSCREEN_H

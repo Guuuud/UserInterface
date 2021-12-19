@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ico/backward-track.png</file>
+        <file>ico/backwards.png</file>
+        <file>ico/fast-forward-media-control-button.png</file>
+        <file>ico/fullscreen.png</file>
+        <file>ico/mute.png</file>
+        <file>ico/next.png</file>
+        <file>ico/pause.png</file>
+        <file>ico/play.png</file>
+        <file>ico/volume.png</file>
+        <file>ico/film.png</file>
+        <file>ico/video-player.png</file>
+    </qresource>
+</RCC>
