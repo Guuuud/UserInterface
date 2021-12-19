@@ -1,0 +1,10 @@
+release/form.o
+release/setFullScreen.o
+release/the_button.o
+release/the_player.o
+release/tomeo.o
+release/qrc_image.o
+release/moc_form.o
+release/moc_setFullScreen.o
+release/moc_the_button.o
+release/moc_the_player.o

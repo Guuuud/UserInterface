@@ -1,0 +1,10 @@
+debug/form.o
+debug/setFullScreen.o
+debug/the_button.o
+debug/the_player.o
+debug/tomeo.o
+debug/qrc_image.o
+debug/moc_form.o
+debug/moc_setFullScreen.o
+debug/moc_the_button.o
+debug/moc_the_player.o
